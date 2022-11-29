@@ -12,12 +12,30 @@
 <div style="display: inline_block"><br>
 <h3 align="center">Dev Skills:</h3>
 <p align="center">
-<img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img  align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-<a href="https://reactjs.org/"><img  align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
-<img  align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img  align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img  align="center" alt="PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+  <img  align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+</a>
+
+<a href="https://reactjs.org/">
+  <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+</a>
+  
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
+  <img  align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+</a>
+  
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</a>
+
+<a href="https://www.python.org/"> 
+  <img  align="center" alt="PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</a>
 </p>
 </div>
 
