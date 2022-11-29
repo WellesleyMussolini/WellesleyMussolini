@@ -25,11 +25,11 @@
   <img align="center" alt="REACT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 </a>
   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
   <img  align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 </a>
   
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </a>
 
